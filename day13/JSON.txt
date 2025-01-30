@@ -1,0 +1,29 @@
+ JSON (java-script object notation)
+
+ -->it is plain-text file used to store data in the form of key and value pair
+ where key should be enclosed in a " "(double quote).
+
+ -->two methods
+ 1)stringify()
+ -->will convert object to JSON Format
+
+ 2)parse()
+ -->will convert JSON to object Format
+
+ How to create a JSON:-
+
+ step-1:- create a .json file.
+ step-2:- create a data in the form of key and value pair and key should be enclosed with " ", 
+          has a value we should not use undefined and function data-type.
+          --->[{},{},{},...](array of object)
+
+we cannot able to give 'value' as undefined or function() in the key value pair
+
+HTTP response status codes
+HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:
+
+Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
